@@ -1,0 +1,33 @@
+_repo: The-story-of-the-Thirty-Eighth-regiment-of-Massachusetts-volunteers_68845
+_version: 0.0.1
+alternative_title: The story of the 38th regiment of Massachusetts volunteers
+creator:
+  author:
+    agent_name: Powers, George Whitefield
+    alias: Powers, George W.
+    birthdate: 1834
+    deathdate: 1903
+    gutenberg_agent_id: '39224'
+    url: http://www.gutenberg.org/2009/agents/39224
+description: ''
+gutenberg_issued: '2022-08-26'
+identifiers:
+  gutenberg: '68845'
+  lccn: 02014485
+language: en
+pgterms:marc905: 20181128143220powers
+pgterms:marc906: '1865'
+pgterms:marc907: US
+production_note: John Campbell and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :Dakin and Metcalf,1865,pubdate 1866.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Regimental histories'
+- !lcsh 'United States. Army. Massachusetts Infantry Regiment, 38th (1862-1865)'
+- !lcc 'E456'
+- GITenberg
+title: The story of the Thirty Eighth regiment of Massachusetts volunteers
+url: http://www.gutenberg.org/ebooks/68845
