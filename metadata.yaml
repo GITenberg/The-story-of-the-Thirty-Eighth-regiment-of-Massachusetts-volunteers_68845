@@ -1,6 +1,9 @@
 _repo: The-story-of-the-Thirty-Eighth-regiment-of-Massachusetts-volunteers_68845
 _version: 0.1.0
 alternative_title: The story of the 38th regiment of Massachusetts volunteers
+covers:
+- cover_type: archival
+  image_path: 68845-h/images/cover.jpg
 creator:
   author:
     agent_name: Powers, George Whitefield
@@ -10,6 +13,8 @@ creator:
     gutenberg_agent_id: '39224'
     url: http://www.gutenberg.org/2009/agents/39224
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68845#The-story-of-the-Thirty-Eighth-regiment-of-Massachusetts-volunteers
 gutenberg_issued: '2022-08-26'
 identifiers:
   gutenberg: '68845'
